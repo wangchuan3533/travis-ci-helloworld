@@ -1,0 +1,28 @@
+{
+  "name": "travis-ci-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "should": "^7.1.0",
+    "mocha": "^2.3.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchuan3533/travis-ci-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchuan3533/travis-ci-helloworld/issues"
+  },
+  "homepage": "https://github.com/wangchuan3533/travis-ci-helloworld#readme"
+}
